@@ -1,0 +1,43 @@
+{
+    "data":  [
+      {
+        "text":
+          "Each Spice Girl had a nickname, what was Emma Bunton’s?",
+        "answers": [
+          { "text": "sporty spice", "isCorrect": false, "_id": 1 },
+          { "text": "ginger spice", "isCorrect": false, "_id": 2 },
+          { "text": "baby spice", "isCorrect": true, "_id": 3 },
+          { "text": "scary spice", "isCorrect": false, "_id": 4 }
+        ]
+      },
+      {
+        "text":
+          "What is the name of the Spice Girls’ first single, released in July 1996?",
+        "answers": [
+          { "text": "wanna be", "isCorrect": true, "_id": 1 },
+          { "text": "zzzaaah", "isCorrect": false, "_id": 2 },
+          { "text": "jump jump", "isCorrect": false, "_id": 3 },
+          { "text": "2 become 1", "isCorrect": false, "_id": 4 }
+        ]
+      },
+      {
+        "text":
+          "Which Spice Girl is married to David Beckham?",
+        "answers": [
+          { "text": "scary spice", "isCorrect": false, "_id": 1 },
+          { "text": "posh spice", "isCorrect": true, "_id": 2 },
+          { "text": "sporty spice", "isCorrect": false, "_id": 3 },
+          { "text": "baby spice", "isCorrect": false, "_id": 4 } 
+        ]
+      },
+      {
+        "text": "Which Spice Girl left the band first?",
+        "answers": [
+          { "text": " Posh Spice", "isCorrect": false, "_id": 1 },
+          { "text": "Baby Spice ", "isCorrect": false, "_id": 2 },
+          { "text": "scary spice ", "isCorrect": false, "_id": 3 },
+          { "text": " Ginger Spice", "isCorrect": true,  "_id":4 }
+        ]
+      }
+    ]
+  }
